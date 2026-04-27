@@ -36,6 +36,7 @@ These logs:
 - Stay on your device.
 - Are visible to you in-app under Settings → Diagnostics → View logs.
 - Are kept for up to 14 days, then automatically deleted.
+- Can also be deleted manually at any time via Settings → Diagnostics → **Clear all logs** - useful if they've accumulated and you want to reset to a new starting point.
 - Are **only** transmitted off your device if you explicitly tap **Settings → Diagnostics → Export logs (CSV)** and choose a destination yourself (Mail, Messages, Files, etc.) via the iOS share sheet.
 
 The app does not send these logs anywhere automatically. The decision to share - and with whom - is entirely yours.
