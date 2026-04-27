@@ -5,9 +5,9 @@ title: Rovis Gym
 
 # Rovis Gym
 
-A pretty dumb, private by design, offline, workout tracker for iPhone and Apple Watch. No account, no subscription, no cloud sync, no friend feeds - just a tool for tracking what you did at the gym so next session you know what to beat.
+A pretty dumb, private by design, offline, workout tracker for iPhone and Apple Watch. No account, no subscription, no stranger feeds, no AI - just a tool to log your rep x set, weights, rest times and heart rate (if you have an Apple Watch)
 
-Log sets, weights, and reps quickly during your session. See your progress over time per exercise. Let your watch handle the rest timer and heart-rate capture without unlocking your phone.
+Let your watch handle the rest timer and heart-rate capture without unlocking your phone. See your progress over time per exercise. Export in readable formats.
 
 ## Why?
 
@@ -20,12 +20,13 @@ Log sets, weights, and reps quickly during your session. See your progress over 
 ## What's in the box
 
 - Add exercises and log sets with weight + reps in a single screen.
-- Simple flow: Start a workout > Tap Rest > Log a Set > Start Next Session > Repeat Sets > Done.
-- Apple Watch companion that runs the timer and records heart rate during sets.
+- Start a workout > Tap Rest > Log a Set > Start Next Session > Repeat Sets > Done.
+- Apple Watch companion that runs the timer and records heart rate during sets. Keep your phone in the locker while you workout.
 - Lock-screen Live Activity for the active session.
 - Per-exercise progress chart with selectable metrics (top set weight, total volume, etc.).
-- Optional Apple Health integration: writes strength workouts to your Activity rings, reads heart rate.
-- Optional in-app diagnostic logging - recorded only on-device, exported as CSV via the system share sheet only when you choose.
+- Optional heart rate during sets via Apple Watch. Toggle it off any time in Settings > Heart Rate.
+- Optional diagnostic logs to help if something's broken. Only kept when you ask; logs never leaves your phone unless you tap Share.
+- Export your workout history as JSON, CSV, or plain text. 
 
 ## Links
 
