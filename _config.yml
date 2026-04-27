@@ -1,5 +1,7 @@
 title: Rovis
 description: Local-first strength workout tracker for iPhone and Apple Watch.
+url: "https://rovisapp.github.io"
+baseurl: "/rovis-gym-site"
 theme: minima
 plugins:
   - jekyll-seo-tag
