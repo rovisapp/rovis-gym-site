@@ -3,7 +3,10 @@ layout: default
 title: Rovis Gym
 ---
 
-# Rovis Gym
+<h1 style="display: flex; align-items: center; gap: 12px;">
+  <img src="{{ '/favicon.svg' | relative_url }}" alt="" width="48" height="48" style="border-radius: 10px;">
+  <span>Rovis Gym</span>
+</h1>
 
 A pretty dumb, private by design, offline, workout tracker for iPhone and Apple Watch. No account, no subscription, no stranger feeds, no AI - just a tool to log your rep x set, weights, rest times and heart rate (if you have an Apple Watch)
 
