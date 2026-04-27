@@ -12,9 +12,9 @@ Log sets, weights, and reps quickly during your session. See your progress over 
 ## Why?
 
 - You already know the workouts you want to do. You don't want a coach in your pocket.
-- There's no library of exercises to scroll through, and that's on purpose. Type in any name "incline bench," "weird cable thing", whatever you call it and start logging reps x sets.
+- There's no library of exercises to scroll through, and that's on purpose. Type in any name *incline bench*, *weird cable thing*, whatever you call it and start logging reps x sets.
 - You don't want anyone else seeing how weak your knees felt today, or how tired you were on that last set.
-- You don't need an AI telling you to "push harder" or "try 5 more reps".
+- You don't need an AI telling you to *push harder* or *try 5 more reps*.
 - You're a private human being. Your training is between you and the iron.
 
 ## What's in the box
