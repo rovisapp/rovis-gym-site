@@ -22,6 +22,7 @@ If the issue is something the app might have logged (a crash, a sync hiccup, a w
 2. Toggle on **Record diagnostic logs** (if it isn't already).
 3. Reproduce the issue.
 4. Tap **Export logs (CSV)** → Share via Mail → send to the email above.
+5. Once the issue is resolved (or you no longer want to troubleshoot), toggle **Record diagnostic logs** back off and tap **Clear all logs** to remove the recorded events from your device.
 
 The CSV stays on your device until you choose to share it - see the [Privacy Policy](privacy.html) for details.
 
