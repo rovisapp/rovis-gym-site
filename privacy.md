@@ -60,4 +60,4 @@ If this policy changes, the "Last updated" date at the top will reflect the new 
 
 ## Contact
 
-Questions about this policy? Email **uadrive1@gmail.com**.
+Questions about this policy? Email **rovisapp@gmail.com**.

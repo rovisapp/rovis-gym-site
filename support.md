@@ -9,7 +9,7 @@ Need help with Rovis Gym? Here's where to start.
 
 ## Contact
 
-Email **uadrive1@gmail.com** with:
+Email **rovisapp@gmail.com** with:
 
 - A short description of what happened.
 - What you expected to happen instead.
