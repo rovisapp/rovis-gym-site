@@ -1,0 +1,9 @@
+title: Rovis Gym
+description: Local-first strength workout tracker for iPhone and Apple Watch.
+theme: minima
+plugins:
+  - jekyll-seo-tag
+
+# Don't list helper files on the site index.
+exclude:
+  - README.md
