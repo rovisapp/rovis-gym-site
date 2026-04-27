@@ -31,6 +31,36 @@ Let your watch handle the rest timer and heart-rate capture without unlocking yo
 - Optional diagnostic logs to help if something's broken. Only kept when you ask; logs never leaves your phone unless you tap Share.
 - Export your workout history as JSON, CSV, or plain text. 
 
+## Screenshots
+
+### iPhone
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px; margin: 16px 0;">
+  <img src="screenshots/iphone/01.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/02.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/03.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/04.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/05.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/06.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/07.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/08.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/09.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/10.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/11.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/12.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+  <img src="screenshots/iphone/13.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+</div>
+
+### Apple Watch
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 16px; margin: 16px 0;">
+  <img src="screenshots/watch/01.png" alt="" style="width: 100%; height: auto;">
+  <img src="screenshots/watch/02.png" alt="" style="width: 100%; height: auto;">
+  <img src="screenshots/watch/03.png" alt="" style="width: 100%; height: auto;">
+  <img src="screenshots/watch/04.png" alt="" style="width: 100%; height: auto;">
+  <img src="screenshots/watch/05.png" alt="" style="width: 100%; height: auto;">
+</div>
+
 ## Links
 
 - [Privacy Policy](privacy.html)
