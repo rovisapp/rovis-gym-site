@@ -34,7 +34,7 @@ On your iPhone and Apple Watch. If you have iCloud Drive turned on for the app, 
 Yes - the watch is optional. The phone app records workouts on its own.
 
 **Q: Does the app work without HealthKit permission?**
-Yes - HealthKit is optional. Declining doesn't block any feature.
+Yes - HealthKit is optional. Without it you won't see heart-rate data during sets, and your strength workouts won't be written to Apple Health (so they won't count toward your Activity rings). Everything else (logging sets, timers, charts, watch sync) works the same.
 
 **Q: How do I delete all my data?**
 Delete the app from your device. If you used iCloud sync, also remove the data from iCloud Drive at iCloud.com → Drive → Rovis Gym (or via iOS Settings → Apple ID → iCloud → Manage Storage).
