@@ -33,32 +33,58 @@ Let your watch handle the rest timer and heart-rate capture without unlocking yo
 
 ## Screenshots
 
+<style>
+  .carousel {
+    display: flex;
+    gap: 16px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 16px;
+    padding: 16px 0;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+  .carousel img {
+    flex: 0 0 auto;
+    scroll-snap-align: center;
+    height: auto;
+    max-width: 100%;
+  }
+  .carousel-iphone img {
+    width: 240px;
+    border-radius: 14px;
+  }
+  .carousel-watch img {
+    width: 200px;
+  }
+</style>
+
 ### iPhone
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px; margin: 16px 0;">
-  <img src="screenshots/iphone/01.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/02.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/03.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/04.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/05.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/06.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/07.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/08.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/09.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/10.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/11.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/12.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
-  <img src="screenshots/iphone/13.png" alt="" style="width: 100%; height: auto; border-radius: 12px;">
+<div class="carousel carousel-iphone">
+  <img src="screenshots/iphone/01.png" alt="">
+  <img src="screenshots/iphone/02.png" alt="">
+  <img src="screenshots/iphone/03.png" alt="">
+  <img src="screenshots/iphone/04.png" alt="">
+  <img src="screenshots/iphone/05.png" alt="">
+  <img src="screenshots/iphone/06.png" alt="">
+  <img src="screenshots/iphone/07.png" alt="">
+  <img src="screenshots/iphone/08.png" alt="">
+  <img src="screenshots/iphone/09.png" alt="">
+  <img src="screenshots/iphone/10.png" alt="">
+  <img src="screenshots/iphone/11.png" alt="">
+  <img src="screenshots/iphone/12.png" alt="">
+  <img src="screenshots/iphone/13.png" alt="">
 </div>
 
 ### Apple Watch
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 16px; margin: 16px 0;">
-  <img src="screenshots/watch/01.png" alt="" style="width: 100%; height: auto;">
-  <img src="screenshots/watch/02.png" alt="" style="width: 100%; height: auto;">
-  <img src="screenshots/watch/03.png" alt="" style="width: 100%; height: auto;">
-  <img src="screenshots/watch/04.png" alt="" style="width: 100%; height: auto;">
-  <img src="screenshots/watch/05.png" alt="" style="width: 100%; height: auto;">
+<div class="carousel carousel-watch">
+  <img src="screenshots/watch/01.png" alt="">
+  <img src="screenshots/watch/02.png" alt="">
+  <img src="screenshots/watch/03.png" alt="">
+  <img src="screenshots/watch/04.png" alt="">
+  <img src="screenshots/watch/05.png" alt="">
 </div>
 
 ## Links
