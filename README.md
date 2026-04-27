@@ -4,7 +4,7 @@ Static site backing the public pages Apple requires for the Rovis Gym iOS app
 submission: privacy policy, support page, landing page.
 
 Hosted by GitHub Pages from the `main` branch's root. Markdown is rendered by
-Jekyll automatically — no build step needed.
+Jekyll automatically - no build step needed.
 
 ## Live URLs
 
@@ -19,7 +19,7 @@ within ~30 seconds.
 
 ## Files
 
-- `index.md` — landing page (linked as Marketing URL on the App Store).
-- `privacy.md` — Privacy Policy URL on the App Store.
-- `support.md` — Support URL on the App Store.
-- `_config.yml` — Jekyll config (theme, exclusions).
+- `index.md` - landing page (linked as Marketing URL on the App Store).
+- `privacy.md` - Privacy Policy URL on the App Store.
+- `support.md` - Support URL on the App Store.
+- `_config.yml` - Jekyll config (theme, exclusions).

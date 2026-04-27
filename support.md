@@ -23,7 +23,7 @@ If the issue is something the app might have logged (a crash, a sync hiccup, a w
 3. Reproduce the issue.
 4. Tap **Export logs (CSV)** → Share via Mail → send to the email above.
 
-The CSV stays on your device until you choose to share it — see the [Privacy Policy](privacy.html) for details.
+The CSV stays on your device until you choose to share it - see the [Privacy Policy](privacy.html) for details.
 
 ## Common questions
 
@@ -31,10 +31,10 @@ The CSV stays on your device until you choose to share it — see the [Privacy P
 On your iPhone and Apple Watch. If you have iCloud Drive turned on for the app, also in your private iCloud database (only accessible to you).
 
 **Q: Does the app work without the watch?**
-Yes — the watch is optional. The phone app records workouts on its own.
+Yes - the watch is optional. The phone app records workouts on its own.
 
 **Q: Does the app work without HealthKit permission?**
-Yes — HealthKit is optional. Declining doesn't block any feature.
+Yes - HealthKit is optional. Declining doesn't block any feature.
 
 **Q: How do I delete all my data?**
 Delete the app from your device. If you used iCloud sync, also remove the data from iCloud Drive at iCloud.com → Drive → Rovis Gym (or via iOS Settings → Apple ID → iCloud → Manage Storage).

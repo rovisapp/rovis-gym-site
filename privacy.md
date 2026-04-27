@@ -11,12 +11,12 @@ Rovis Gym ("the app") is designed to be a fully on-device tool. Your workout dat
 
 ## What data the app stores on your device
 
-- **Exercises, sets, weights, reps, timestamps** — everything you log during a workout.
+- **Exercises, sets, weights, reps, timestamps** - everything you log during a workout.
 - **Per-session heart-rate samples** (only if you opt in to heart-rate recording in Settings, and only if you grant Apple Health permission).
 - **App preferences** (units, rest-timer length, notification settings, etc.).
 - **Optional diagnostic logs** (only if you turn on "Record diagnostic logs" in Settings; see below).
 
-All of this is stored locally on your device and, if iCloud sync is enabled, in your private iCloud database — which only you can access. The developer cannot access your iCloud data.
+All of this is stored locally on your device and, if iCloud sync is enabled, in your private iCloud database - which only you can access. The developer cannot access your iCloud data.
 
 ## Apple Health (HealthKit)
 
@@ -38,7 +38,7 @@ These logs:
 - Are kept for up to 14 days, then automatically deleted.
 - Are **only** transmitted off your device if you explicitly tap **Settings → Diagnostics → Export logs (CSV)** and choose a destination yourself (Mail, Messages, Files, etc.) via the iOS share sheet.
 
-The app does not send these logs anywhere automatically. The decision to share — and with whom — is entirely yours.
+The app does not send these logs anywhere automatically. The decision to share - and with whom - is entirely yours.
 
 ## What the app does not do
 
