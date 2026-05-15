@@ -41,6 +41,7 @@ Let your watch handle the rest timer and heart-rate capture without unlocking yo
     scroll-snap-type: x mandatory;
     scroll-padding: 16px;
     padding: 16px 0 12px;
+    margin-bottom: 40px;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: thin;
     scrollbar-color: rgba(128, 128, 128, 0.45) transparent;
