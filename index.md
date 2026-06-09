@@ -78,29 +78,24 @@ Let your watch handle the rest timer and heart-rate capture without unlocking yo
 ### iPhone
 
 <div class="carousel carousel-iphone">
-  <img src="screenshots/iphone/01.png" alt="">
-  <img src="screenshots/iphone/02.png" alt="">
-  <img src="screenshots/iphone/03.png" alt="">
-  <img src="screenshots/iphone/04.png" alt="">
-  <img src="screenshots/iphone/05.png" alt="">
-  <img src="screenshots/iphone/06.png" alt="">
-  <img src="screenshots/iphone/07.png" alt="">
-  <img src="screenshots/iphone/08.png" alt="">
-  <img src="screenshots/iphone/09.png" alt="">
-  <img src="screenshots/iphone/10.png" alt="">
-  <img src="screenshots/iphone/11.png" alt="">
-  <img src="screenshots/iphone/12.png" alt="">
-  <img src="screenshots/iphone/13.png" alt="">
+  <img src="screenshots/iphone/01_active_resting.png" alt="">
+  <img src="screenshots/iphone/02_active_working.png" alt="">
+  <img src="screenshots/iphone/03_home_list.png" alt="">
+  <img src="screenshots/iphone/04_add_workout.png" alt="">
+  <img src="screenshots/iphone/05_exercise_history.png" alt="">
+  <img src="screenshots/iphone/06_settings.png" alt="">
+  <img src="screenshots/iphone/07_share_card.png" alt="">
+  <img src="screenshots/iphone/08_share_style_picker.png" alt="">
+  <img src="screenshots/iphone/09_share_style_picker_alt.png" alt="">
 </div>
 
 ### Apple Watch
 
 <div class="carousel carousel-watch">
-  <img src="screenshots/watch/01.png" alt="">
-  <img src="screenshots/watch/02.png" alt="">
-  <img src="screenshots/watch/03.png" alt="">
-  <img src="screenshots/watch/04.png" alt="">
-  <img src="screenshots/watch/05.png" alt="">
+  <img src="screenshots/watch/01_exercise_list.png" alt="">
+  <img src="screenshots/watch/02_exercise_screen.png" alt="">
+  <img src="screenshots/watch/03_exercise_active.png" alt="">
+  <img src="screenshots/watch/04_record_logs.png" alt="">
 </div>
 
 ## Serious Privacy
