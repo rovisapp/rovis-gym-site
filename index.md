@@ -4,7 +4,7 @@ title: Rovis Gym
 ---
 
 <h1 style="display: flex; align-items: center; gap: 12px;">
-  <img src="{{ '/favicon.svg' | relative_url }}" alt="" width="48" height="48" style="border-radius: 10px;">
+  <img src="{{ '/favicon.png' | relative_url }}" alt="" width="48" height="48" style="border-radius: 10px;">
   <span>Rovis Gym</span>
 </h1>
 
